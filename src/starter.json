@@ -1,0 +1,32 @@
+[
+    {
+        "id":0,
+        "name":"Aslan",
+        "role":"T.A",
+        "hobby":"Coding"
+    },
+    {
+        "id":1,
+        "name":"Joe",
+        "role":"Instructor",
+        "hobby":"Coding"
+    },
+    {
+        "id":2,
+        "name":"John",
+        "role":"Student",
+        "hobby":"Coding"
+    },
+    {
+        "id":3,
+        "name":"Mitchell",
+        "role":"Student",
+        "hobby":"Gaming (PC)"
+    },
+    {
+        "id":4,
+        "name":"Zack",
+        "role":"Student",
+        "hobby":"reading"
+    }
+]
